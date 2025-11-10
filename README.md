@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Jmark
 
-🎯 I’m a student who enjoys building backend systems using **Node.js** and **NestJS**.  
+🎯 I’m a BSIT student who enjoys building backend systems using **Node.js** and **NestJS**.  
 💡 I’m learning **PostgreSQL**, **TypeORM**, and how to design better backend architectures.  
 🚀 I like creating real-world projects to improve my coding skills and gain experience.
 
