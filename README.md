@@ -30,11 +30,6 @@
 
 ---
 
-### 🏆 Extra GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashura2002&theme=tokyonight)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ashura2002&theme=tokyonight&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 
 ### 🌱 Current Focus
