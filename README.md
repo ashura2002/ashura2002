@@ -35,7 +35,3 @@
 - Learning backend development with NestJS and Node.js
 - Strengthening database design and management using **PostgreSQL** and **TypeORM**  
 - Implementing **Docker** and **CI/CD pipelines** for efficient deployment  
-
----
-
-⭐ **Fun Fact:** I believe consistent small projects are the best way to master your tech stack!
