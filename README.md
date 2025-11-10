@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Jmark
 
 🎯 I’m a passionate **Backend Developer** focused on building scalable and efficient systems using **Node.js** and **NestJS**.  
-💡 Currently exploring the **MERN stack** and **PostgreSQL** to strengthen my full-stack development skills.  
-🚀 I love learning through building real-world projects and improving my backend architecture knowledge.
+💡 Currently improving my skills in **PostgreSQL**, **TypeORM**, and backend architecture.  
+🚀 I love learning through building real-world projects and continuously improving my backend development workflow.
 
 ---
 
@@ -23,19 +23,17 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-
----
+![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ---
 
 ### 🌱 Current Focus
-- Mastering backend development with **NestJS & Node.js**  
-- Strengthening my database skills using **PostgreSQL** and **TypeORM**  
-- Building scalable APIs and integrating **Docker + CI/CD pipelines**
+- Mastering backend development with **NestJS** and **Node.js**  
+- Strengthening database design and management using **PostgreSQL** and **TypeORM**  
+- Implementing **Docker** and **CI/CD pipelines** for efficient deployment  
 
 ---
 
