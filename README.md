@@ -32,7 +32,7 @@
 ---
 
 ### 🌱 Current Focus
-- Mastering backend development with **NestJS** and **Node.js**  
+- Learning backend development with NestJS and Node.js
 - Strengthening database design and management using **PostgreSQL** and **TypeORM**  
 - Implementing **Docker** and **CI/CD pipelines** for efficient deployment  
 
