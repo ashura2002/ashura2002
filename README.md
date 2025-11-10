@@ -1,8 +1,9 @@
 # 👋 Hello, I'm Jmark
 
-🎯 I’m a passionate **Backend Developer** focused on building scalable and efficient systems using **Node.js** and **NestJS**.  
+🎯 I’m a **Backend Developer** who enjoys building scalable and efficient systems using **Node.js** and **NestJS**.  
 💡 Currently improving my skills in **PostgreSQL**, **TypeORM**, and backend architecture.  
-🚀 I love learning through building real-world projects and continuously improving my backend development workflow.
+🚀 I enjoy learning by building real-world projects and continuously improving my development workflow.
+
 
 ---
 
