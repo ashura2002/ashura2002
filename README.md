@@ -4,9 +4,10 @@
 🚀 I love building real-world projects to sharpen my skills and gain hands-on experience.
 
 ### 🌱 Current Focus
-- Deepening my backend development skills using **NestJS** and **Node.js**
-- Improving database design with **PostgreSQL**
-- Learning **Docker** and basic **CI/CD pipelines** for better deployment workflows
+- Advancing backend skills with **NestJS** + **Node.js**
+- Leveling up database design using **PostgreSQL**
+- Learning **Docker** and essential **CI/CD** practices
+
 
 ---
 
