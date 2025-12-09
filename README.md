@@ -8,16 +8,15 @@
 - Leveling up database design using **PostgreSQL**
 - Learning **Docker** and essential **CI/CD** practices
 
-
 ---
 
 ### 📊 GitHub Stats
 
-![Jmark's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashura2002&show_icons=true&theme=tokyonight)
+![Jmark's GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ashura2002&theme=tokyonight&row=1)
 
 ### 💻 Languages & Tools Used
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashura2002&layout=compact&theme=tokyonight)
+![Top Languages](https://img.shields.io/github/languages/top/ashura2002?style=flat-square&color=blue&logoColor=white)
 
 ---
 
@@ -30,8 +29,4 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-
 
