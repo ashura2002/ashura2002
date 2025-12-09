@@ -34,6 +34,3 @@
 - Improving database design with **PostgreSQL** + **TypeORM**
 - Learning **Docker** and basic **CI/CD pipelines** for better deployment workflows
 
----
-
-✨ *Always learning. Always building.*  
