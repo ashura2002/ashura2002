@@ -10,16 +10,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Jmark's GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ashura2002&theme=tokyonight&row=1)
-
-### 💻 Languages & Tools Used
-
-![Top Languages](https://img.shields.io/github/languages/top/ashura2002?style=flat-square&color=blue&logoColor=white)
-
----
-
 ### 🧰 My Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
