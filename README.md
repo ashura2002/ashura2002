@@ -1,10 +1,8 @@
 # 👋 Hello, I'm Jmark
 
-🎯 I’m a BSIT student who enjoys building backend systems using **Node.js** and **NestJS**.  
-💡 I’m learning **PostgreSQL**, **TypeORM**, and how to design better backend architectures.  
-🚀 I like creating real-world projects to improve my coding skills and gain experience.
-
-
+🎯 I’m a **BSIT student** who enjoys building backend systems using **Node.js** and **NestJS**.  
+💡 Currently learning **PostgreSQL**, **TypeORM**, and how to design scalable backend architectures.  
+🚀 I love building real-world projects to sharpen my skills and gain hands-on experience.
 
 ---
 
@@ -31,6 +29,11 @@
 ---
 
 ### 🌱 Current Focus
-- Learning backend development with NestJS and Node.js
-- Strengthening database design and management using **PostgreSQL** and **TypeORM**  
-- Implementing **Docker** and **CI/CD pipelines** for efficient deployment  
+
+- Deepening my backend development skills using **NestJS** and **Node.js**
+- Improving database design with **PostgreSQL** + **TypeORM**
+- Learning **Docker** and basic **CI/CD pipelines** for better deployment workflows
+
+---
+
+✨ *Always learning. Always building.*  
