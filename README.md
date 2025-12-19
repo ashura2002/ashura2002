@@ -1,15 +1,12 @@
 # 👋 Hello, I'm Jmark
 
-🎯 I’m a **BSIT student** who enjoys building backend systems using **Node.js** and **NestJS**.  
-🚀 I love building real-world projects to sharpen my skills and gain hands-on experience.
+🎯 I’m a **BSIT student** passionate about building backend systems with **TypeScript **Node.js** and **NestJS**.
+🚀 I enjoy creating real-world projects to sharpen my skills and gain hands-on experience.
 
 ---
 
-🌱 Current Focus
-  - Deepening backend development skills with NestJS + Node.js
-  - Writing clean, structured, and maintainable TypeScript code
-  - Designing efficient and reliable databases using PostgreSQL
-  - Strengthening backend fundamentals (OOP, modular architecture, and best practices)
+🌱 Current Focus  
+Building scalable backend systems with NestJS & Node.js, writing clean TypeScript code, and designing reliable PostgreSQL databases.
 
 ---
 
