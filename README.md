@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Jmark
 
-- I’m a **BSIT student** passionate about building backend systems with **TypeScript **Node.js** and **NestJS**.
+- I’m a **BSIT student** passionate about building backend systems with **TypeScript, Node.js, and NestJS**.  
 - I enjoy creating real-world projects to sharpen my skills and gain hands-on experience.
 
 ---
