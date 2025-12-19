@@ -12,6 +12,7 @@
   - Strengthening backend fundamentals (OOP, modular architecture, and best practices)
 
 ---
+
 ### 🧰 My Tech Stack
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -23,4 +24,5 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-
+![Prisma](https://img.shields.io/badge/Prisma-0CAFFF?style=for-the-badge&logo=prisma&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-0C344B?style=for-the-badge&logo=typeorm&logoColor=white)
